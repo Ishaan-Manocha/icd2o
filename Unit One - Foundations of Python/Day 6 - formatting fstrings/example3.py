@@ -11,5 +11,4 @@ print(f"{average:>20}")
 
 print(f"{average:>20.2f}")
 
-
 print(f"{math.pi:>10.2f}")
