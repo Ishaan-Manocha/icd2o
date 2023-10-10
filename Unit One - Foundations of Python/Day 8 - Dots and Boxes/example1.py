@@ -1,11 +1,14 @@
 
 print(str(input("Enter Your Name: ")))
 
+your_total = int(input("Enter total here: "))
+
+
 print("")
 
 print("Game #1")
 
-print("Opponent's name: Brandon")
+print("Opponent's name: ")
 
 print("Opponent's Points: 6")
 
