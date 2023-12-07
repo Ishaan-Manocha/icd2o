@@ -1,0 +1,15 @@
+length = len("Happy Cat")
+print(length)
+
+
+mystery = print("Happy Cat")
+
+print(mystery)
+
+width = int(input("Please enter a width: "))
+
+print(round(4536.734646645436565433654564367653899986947974947967185485672754765869679, 2))
+
+print(round(4536.734646645436565433654564367653899986947974947967185485672754765869679))
+
+
